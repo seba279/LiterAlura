@@ -8,3 +8,4 @@ Catálogo de Libros que ofrece interacción al usuario por consola. Los libros s
 - Lista de todos los libros
 - Lista de autores
 - Listar autores vivos en un determinado año
+- Listado de Libros por Idioma
