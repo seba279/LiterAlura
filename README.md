@@ -1,7 +1,7 @@
 # LiterAlura
 
 ## Descripcion
-Catálogo de Libros que ofrece interacción al usuario por consola. Los libros se buscarán a través de una API específica, la API Gutendex.  
+Catálogo de Libros que ofrece interacción al usuario por consola. Los libros se buscarán a través de una API específica, la API Gutendex, ofreciendole al usuario un menu con los diferentes funcionalidades.  
 
 ## Funcionalidades 
 - Búsqueda de libro por título
